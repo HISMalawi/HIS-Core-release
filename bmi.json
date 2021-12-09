@@ -1,0 +1,226 @@
+{
+	"M": {
+		"5": {
+			"<12.1": "Severely Underweight",
+			"12.1-12.9": "Moderately Underweight",
+			"13.0-16.5": "Normal",
+			"16.6-18.2": "overweight",
+			">=18.3": "Obese"
+		},
+		"6": {
+			"<12.1": "Severely Underweight",
+			"12.1-12.9": "Moderately Underweight",
+			"13.0-16.7": "Normal",
+			"16.8-18.4": "overweight",
+			">=18.5": "Obese"
+		},
+		"7": {
+			"<12.3": "Severely Underweight",
+			"12.3-13.0": "Moderately Underweight",
+			"13.1-16.9": "Normal",
+			"17.0-18.9": "overweight",
+			">=19.0": "Obese"
+		},
+		"8": {
+			"<12.4": "Severely Underweight",
+			"12.4-13.2": "Moderately Underweight",
+			"13.3-17.3": "Normal",
+			"17.4-19.6": "overweight",
+			">=19.7": "Obese"
+		},
+		"9": {
+			"<12.6": "Severely Underweight",
+			"12.6-13.4": "Moderately Underweight",
+			"13.5-17.8": "Normal",
+			"17.9-20.4": "overweight",
+			">=20.5": "Obese"
+		},
+		"10": {
+			"<12.8": "Severely Underweight",
+			"12.8-13.6": "Moderately Underweight",
+			"13.7-18.4": "Normal",
+			"18.5-21.3": "overweight",
+			">=21.4": "Obese"
+		},
+		"11": {
+			"<13.1": "Severely Underweight",
+			"13.1-14.0": "Moderately Underweight",
+			"14.1-19.1": "Normal",
+			"19.2-22.4": "overweight",
+			">=22.5": "Obese"
+		},
+		"12": {
+			"<13.4": "Severely Underweight",
+			"13.4-14.4": "Moderately Underweight",
+			"14.5-19.8": "Normal",
+			"19.9-23.5": "overweight",
+			">=23.6": "Obese"
+		},
+		"13": {
+			"<13.8": "Severely Underweight",
+			"13.8-14.8": "Moderately Underweight",
+			"14.9-20.7": "Normal",
+			"20.8-24.7": "overweight",
+			">=24.8": "Obese"
+		},
+		"14": {
+			"<14.3": "Severely Underweight",
+			"14.3-15.4": "Moderately Underweight",
+			"15.5-21.7": "Normal",
+			"21.8-25.8": "overweight",
+			">=25.9": "Obese"
+		},
+		"15": {
+			"<14.7": "Severely Underweight",
+			"14.7-15.9": "Moderately Underweight",
+			"16.0-22.6": "Normal",
+			"22.7-26.9": "overweight",
+			">=27.0": "Obese"
+		},
+		"16": {
+			"<15.1": "Severely Underweight",
+			"15.1-16.4": "Moderately Underweight",
+			"16.5-23.4": "Normal",
+			"23.5-27.8": "overweight",
+			">=27.9": "Obese"
+		},
+		"17": {
+			"<15.4": "Severely Underweight",
+			"15.4-16.8": "Moderately Underweight",
+			"16.9-24.2": "Normal",
+			"24.3-28.5": "overweight",
+			">=28.6": "Obese"
+		},
+		"18": {
+			"<15.7": "Severely Underweight",
+			"15.7-17.2": "Moderately Underweight",
+			"17.3-24.8": "Normal",
+			"24.9-29.1": "overweight",
+			">=29.2": "Obese"
+		},
+		"19": {
+			"<16.0": "Severely Underweight",
+			"16.0-16.9": "Moderately Underweight",
+			"17.0-18.4": "Mildly Underweight",
+			"18.5-24.9": "Normal",
+			"25.0-29.9": "overweight",
+			">=30.0": "Obese"
+		}
+	},
+	"F": {
+		"5": {
+			"<11.8": "Severely Underweight",
+			"11.8-12.6": "Moderately Underweight",
+			"12.7-16.8": "Normal",
+			"16.9-18.8": "overweight",
+			">=18.9": "Obese"
+		},
+		"6": {
+			"<11.7": "Severely Underweight",
+			"11.7-12.6": "Moderately Underweight",
+			"12.7-16.9": "Normal",
+			"17.0-19.1": "overweight",
+			">=19.2": "Obese"
+		},
+		"7": {
+			"<11.8": "Severely Underweight",
+			"11.8-12.6": "Moderately Underweight",
+			"12.7-17.2": "Normal",
+			"17.3-19.7": "overweight",
+			">=19.8": "Obese"
+		},
+		"8": {
+			"<11.9": "Severely Underweight",
+			"11.9-12.8": "Moderately Underweight",
+			"12.9-17.6": "Normal",
+			"17.7-20.5": "overweight",
+			">=20.6": "Obese"
+		},
+		"9": {
+			"<12.1": "Severely Underweight",
+			"12.1-13.0": "Moderately Underweight",
+			"13.1-18.2": "Normal",
+			"18.3-21.4": "overweight",
+			">=21.5": "Obese"
+		},
+		"10": {
+			"<12.4": "Severely Underweight",
+			"12.4-13.4": "Moderately Underweight",
+			"13.5-18.9": "Normal",
+			"19.0-22.5": "overweight",
+			">=22.6": "Obese"
+		},
+		"11": {
+			"<12.7": "Severely Underweight",
+			"12.7-13.8": "Moderately Underweight",
+			"13.9-19.8": "Normal",
+			"19.9-23.6": "overweight",
+			">=23.7": "Obese"
+		},
+		"12": {
+			"<13.2": "Severely Underweight",
+			"13.2-14.3": "Moderately Underweight",
+			"14.4-20.7": "Normal",
+			"20.8-24.9": "overweight",
+			">=25.0": "Obese"
+		},
+		"13": {
+			"<13.6": "Severely Underweight",
+			"13.6-14.8": "Moderately Underweight",
+			"14.9-21.7": "Normal",
+			"21.8-26.1": "overweight",
+			">=24.8": "Obese"
+		},
+		"14": {
+			"<14.0": "Severely Underweight",
+			"14.0-15.3": "Moderately Underweight",
+			"15.4-22.6": "Normal",
+			"22.7-27.2": "overweight",
+			">=27.3": "Obese"
+		},
+		"15": {
+			"<14.4": "Severely Underweight",
+			"14.4-15.8": "Moderately Underweight",
+			"15.9-23.4": "Normal",
+			"23.5-28.1": "overweight",
+			">=28.2": "Obese"
+		},
+		"16": {
+			"<14.6": "Severely Underweight",
+			"14.6-16.1": "Moderately Underweight",
+			"16.2-24.0": "Normal",
+			"24.1-28.8": "overweight",
+			">=28.9": "Obese"
+		},
+		"17": {
+			"<14.7": "Severely Underweight",
+			"14.7-16.3": "Moderately Underweight",
+			"16.4-24.4": "Normal",
+			"24.5-29.2": "overweight",
+			">=29.3": "Obese"
+		},
+		"18": {
+			"<14.7": "Severely Underweight",
+			"14.7-16.3": "Moderately Underweight",
+			"16.4-24.7": "Normal",
+			"24.8-29.4": "overweight",
+			">=29.5": "Obese"
+		},
+		"19": {
+			"<16.0": "Severely Underweight",
+			"16.0-16.9": "Moderately Underweight",
+			"17.0-18.4": "Mildly Underweight",
+			"18.5-24.9": "Normal",
+			"25.0-29.9": "overweight",
+			">=30.0": "Obese"
+		}
+	},
+	"colors": {
+		"Severely Underweight": "#b4080e",
+		"Moderately Underweight": "#cf5308",
+		"Mildly Underweight": "#d7a902",
+		"Normal": "#294603",
+		"overweight": "#3b254a",
+		"Obese": "#05044d"
+	}
+}

@@ -1,0 +1,198 @@
+{
+  "encounters": [
+    {
+      "id": "art adherence",
+      "name": "ART adherence",
+      "description": "",
+      "url": "/encounters/art/adherence",
+      "icon": "/assets/images/adherence.png",
+      "available": true
+    },
+    {
+      "id": "hiv clinic consultation",
+      "name": "HIV clinic consultations",
+      "description": "",
+      "url": "/encounters/art/consultation",
+      "icon": "/assets/images/consultation.png",
+      "available": true
+    },
+    {
+      "id": "hiv clinic registration",
+      "name": "HIV first visits",
+      "description": "",
+      "url": "/encounters/art/clinic_registration",
+      "icon": "/assets/images/registration.png",
+      "available": true
+    },
+    {
+      "id": "hiv reception",
+      "name": "HIV reception visits",
+      "description": "",
+      "url": "/encounters/art/reception",
+      "icon": "/assets/images/reception.png",
+      "available": true
+    },
+    {
+      "id": "hiv staging",
+      "name": "HIV staging visits",
+      "description": "",
+      "url": "/encounters/art/staging",
+      "icon": "/assets/images/hiv-staging.png",
+      "available": true
+    },
+    {
+      "id": "appointment",
+      "name": "Manage Appointments",
+      "description": "",
+      "url": "/encounters/art/appointment",
+      "icon": "/assets/images/appointment.png",
+      "available": true
+    },
+    {
+      "id": "dispensing",
+      "name": "Drug Dispensations",
+      "description": "",
+      "url": "/encounters/art/dispensation",
+      "icon": "/assets/images/dispensing.png",
+      "available": true
+    },
+    {
+      "id": "treatment",
+      "name": "Prescriptions",
+      "description": "",
+      "url": "/encounters/art/treatment",
+      "icon": "/assets/images/prescription.png",
+      "available": true
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "description": "",
+      "url": "/encounters/art/vitals",
+      "icon": "/assets/images/vitals.png",
+      "available": true
+    },
+    {
+      "id": "patient type",
+      "name": "Patient Type",
+      "description": "",
+      "url": "/encounters/art/patient_type",
+      "icon": "/assets/images/patient-type.png",
+      "available": true
+    }
+  ],
+  "options": [
+    {
+      "id": "",
+      "name": "National Health ID (Print)",
+      "description": "Print Patient National Health ID",
+      "url": "/",
+      "icon": "/assets/images/barcode.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Lab activities",
+      "description": "Print Patient Visit Summary",
+      "url": "/",
+      "icon": "/assets/images/lab.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Demographics (Print)",
+      "description": "Print Patient Demographics",
+      "url": "/",
+      "icon": "/assets/images/print.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Demographics (Edit)",
+      "description": "Edit Patient Demographics",
+      "url": "/",
+      "icon": "/assets/images/print.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Change session date",
+      "description": "Change session date (for retrospective entry)",
+      "url": "/",
+      "icon": "/assets/images/time.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Program(s)",
+      "description": "View / update patient's programs",
+      "url": "/",
+      "icon": "/assets/images/programs.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Filing Number (Print)",
+      "description": "Print Patient Filing Number",
+      "url": "/",
+      "icon": "/assets/images/folder.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Visit Summary (Print)",
+      "description": "Print Patient Visit Summary",
+      "url": "/",
+      "icon": "/assets/images/folder.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Mastercard",
+      "description": "Mastercard",
+      "url": "/",
+      "icon": "/assets/images/card.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "View past Filing number",
+      "description": "View past filing numbers",
+      "url": "/",
+      "icon": "/assets/images/filing.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Enter Lab Result",
+      "description": "Enter Lab Test Result",
+      "url": "/",
+      "icon": "/assets/images/enter.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Archive client",
+      "description": "Archive a client",
+      "url": "/",
+      "icon": "/assets/images/archive.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Assign filing number",
+      "description": "Assign a new filing number",
+      "url": "/",
+      "icon": "/assets/images/archive.png",
+      "available": true
+    },
+    {
+      "id": "",
+      "name": "Patient Type",
+      "description": "Patient Type",
+      "url": "/encounters/art/patient_type",
+      "icon": "/assets/images/patient-type.png",
+      "available": true
+    }
+  ]
+}

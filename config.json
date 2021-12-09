@@ -1,0 +1,11 @@
+{
+	"apiURL": "127.0.0.1",
+	"apiPort": "9200",
+	"apiProtocol": "http",
+	"version": "4.0",
+	"apiVersion": "v1",
+	"apps": [
+		{ "name": "ART", "available": true },
+		{ "name": "LOS", "available": true }
+	]
+}

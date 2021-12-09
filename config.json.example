@@ -1,0 +1,9 @@
+{
+	"apiURL": "0.0.0.0",
+	"apiPort": "3000",
+	"apiProtocol": "http",
+	"apps": [
+		{ "name": "ART", "available": true },
+		{ "name": "LOS", "available": true }
+	]
+}
