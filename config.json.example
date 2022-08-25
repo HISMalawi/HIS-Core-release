@@ -3,9 +3,9 @@
 	"apiPort": "3000",
 	"apiProtocol": "http",
 	"appConf": {
+		"enableVersionLocking": true,
 		"promptFullScreenDialog": false,
-		"showUpdateNotifications": true,
-		"dataCaching": true
+		"showUpdateNotifications": true
 	},
 	"apps": [
 		{ "name": "ART", "available": true },
