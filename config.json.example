@@ -1,13 +1,16 @@
 {
-	"apiURL": "0.0.0.0",
+	"apiURL": "localhost",
 	"apiPort": "3000",
 	"apiProtocol": "http",
 	"appConf": {
+		"devMode": true,
+		"enableVersionLocking": true,
 		"promptFullScreenDialog": false,
 		"showUpdateNotifications": true,
 		"dataCaching": true
 	},
 	"apps": [
+		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
 		{ "name": "LOS", "available": true },
 		{ "name": "OPD", "available": true },
@@ -16,12 +19,20 @@
 		{ "name": "RADIOLOGY", "available": true },
 		{ "name": "Registration", "available": true}
 	],
-	"thirdpartyApps": [
-		{
-			"name": "pacs",
-			"url": "",
-			"applicationDescription": "Picture archieving system",
-			"comment": "redirecting to pacs image viewer; used in OPD"
+	"platformProfiles":  {
+		"Desktop": {
+			"profileName": "Desktop",
+			"fileExport": "WEB",
+			"scanner": "BARCODE_SCANNER",
+			"printer": "WEB",
+			"keyboard": "NATIVE_AND_HIS_KEYBOARD"
+		},
+		"Mobile" : {
+			"profileName": "Mobile",
+			"fileExport": "FILE_SYSTEM",
+			"scanner": "CAMERA_SCANNER",
+			"printer": "BLUETOOTH",
+			"keyboard": "HIS_KEYBOARD_ONLY"
 		}
-	]
+	}
 }
