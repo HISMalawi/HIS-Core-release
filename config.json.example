@@ -3,7 +3,7 @@
 	"apiPort": "3000",
 	"apiProtocol": "http",
 	"isPocSite": false,
-	"defaultApp": "EMC",
+	"defaultApp": "",
 	"appConf": {
 		"devMode": true,
 		"enableVersionLocking": true,
@@ -43,5 +43,5 @@
 			"applicationDescription": "Picture archieving system",
 			"comment": "redirecting to pacs image viewer; used in OPD"
 		}
-	]
+	}
 }
