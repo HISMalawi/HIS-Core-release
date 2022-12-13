@@ -12,8 +12,9 @@
 	"apps": [
 		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
-		{ "name": "LOS", "available": true },
+		{ "name": "HTS", "available": true },
 		{ "name": "OPD", "available": true },
+		{ "name": "LOS", "available": true },
 		{ "name": "ANC", "available": true },
 		{ "name": "CxCa", "available": true },
 		{ "name": "RADIOLOGY", "available": true },
