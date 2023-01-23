@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21db89"],{d304:function(e,n,r){"use strict";r.r(n),r.d(n,"LabelPrinterWeb",(function(){return c}));r("d9e2");var t=r("156d"),d=r("1547");class c extends d["b"]{async write(e){if(e.url)return t["b"].expandPath(e.url).then(e=>{document.location=e});throw new TypeError("Undefined url")}async discover(){return{devices:["webPrinter"]}}}}}]);
+//# sourceMappingURL=chunk-2d21db89.b91554c1.js.map
