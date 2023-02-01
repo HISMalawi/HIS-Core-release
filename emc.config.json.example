@@ -1,6 +1,6 @@
 {
 	"apiURL": "localhost",
-	"apiPort": "3000",
+	"apiPort": "9000",
 	"apiProtocol": "http",
 	"isPocSite": false,
 	"defaultApp": "EMC",
