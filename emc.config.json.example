@@ -11,7 +11,7 @@
 		"showUpdateNotifications": true
 	},
 	"apps": [
-		{ "name": "EMC", "available": true },
+		{ "name": "EMC", "available": true }
 	],
 	"platformProfiles":  {
 		"Desktop": {
