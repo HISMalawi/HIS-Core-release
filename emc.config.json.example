@@ -1,17 +1,17 @@
 {
-	"apiURL": "localhost",
+	"apiURL": "127.0.0.1",
 	"apiPort": "9000",
 	"apiProtocol": "http",
 	"isPocSite": false,
 	"defaultApp": "EMC",
 	"appConf": {
-		"devMode": true,
+		"devMode": false,
 		"enableVersionLocking": true,
 		"promptFullScreenDialog": false,
 		"showUpdateNotifications": true
 	},
 	"apps": [
-		{ "name": "EMC", "available": true }
+		{ "name": "EMC", "available": true },
 	],
 	"platformProfiles":  {
 		"Desktop": {
