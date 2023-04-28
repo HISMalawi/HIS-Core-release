@@ -12,7 +12,7 @@
 	"apps": [
 		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
-		{ "name": "HTS", "available": true },
+		{ "name": "ITS", "available": true },
 		{ "name": "OPD", "available": true },
 		{ "name": "LOS", "available": true },
 		{ "name": "ANC", "available": true },
