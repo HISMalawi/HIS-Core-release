@@ -1,0 +1,26 @@
+table {
+    border: solid 1px #3333;
+    width: 100%;
+}
+tr > td {
+    font-size: var(--his-sm-font-size);
+    padding: 0.3em;
+}
+.main-title {
+    background: #8EAADB;
+    font-weight: bold;
+    border: solid 3px black;
+}
+.table-value {
+    padding: 1em;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-size: var(--his-lg-font-size);
+    border: solid 1px #3333;
+}
+.table-section {
+    font-weight: bold;
+    background: #D9E2F3;
+    border: solid 3px black;
+}
