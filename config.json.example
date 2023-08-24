@@ -2,19 +2,19 @@
 	"apiURL": "localhost",
 	"apiPort": "3000",
 	"apiProtocol": "http",
+	"isPocSite": false,
+	"defaultApp": "",
 	"appConf": {
 		"devMode": true,
 		"enableVersionLocking": true,
 		"promptFullScreenDialog": false,
-		"showUpdateNotifications": true,
-		"dataCaching": true
+		"showUpdateNotifications": true
 	},
 	"apps": [
 		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
-		{ "name": "ITS", "available": true },
-		{ "name": "OPD", "available": true },
 		{ "name": "LOS", "available": true },
+		{ "name": "OPD", "available": true },
 		{ "name": "ANC", "available": true },
 		{ "name": "CxCa", "available": true },
 		{ "name": "RADIOLOGY", "available": true },
@@ -41,5 +41,13 @@
 			"printer": "BLUETOOTH",
 			"keyboard": "HIS_KEYBOARD_ONLY"
 		}
-	}
+	},
+	"thirdpartyApps": [
+		{
+			"name": "pacs",
+			"url": "",
+			"applicationDescription": "Picture archieving system",
+			"comment": "redirecting to pacs image viewer; used in OPD"
+		}
+	]
 }
