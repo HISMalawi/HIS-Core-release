@@ -1,17 +1,18 @@
 {
-	"apiURL": "192.16.64.42",
-	"apiPort": "3003",
+	"apiURL": "localhost",
+	"apiPort": "3000",
 	"apiProtocol": "http",
 	"appConf": {
-		"devMode": true,
 		"enableVersionLocking": false,
 		"promptFullScreenDialog": false,
-		"showUpdateNotifications": true,
-		"dataCaching": true
+		"showUpdateNotifications": true
 	},
+	"networkSites": [
+	],
 	"apps": [
-		{ "name": "EMC", "available": true },
 		{ "name": "ITS", "available": true },
+		{ "name": "CRVS", "available": true },
+		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
 		{ "name": "LOS", "available": true },
 		{ "name": "OPD", "available": true },
@@ -19,21 +20,5 @@
 		{ "name": "CxCa", "available": true },
 		{ "name": "RADIOLOGY", "available": true },
 		{ "name": "Registration", "available": true}
-	],
-	"platformProfiles":  {
-		"Desktop": {
-			"profileName": "Desktop",
-			"fileExport": "WEB",
-			"scanner": "BARCODE_SCANNER",
-			"printer": "WEB",
-			"keyboard": "NATIVE_AND_HIS_KEYBOARD"
-		},
-		"Mobile" : {
-			"profileName": "Mobile",
-			"fileExport": "FILE_SYSTEM",
-			"scanner": "CAMERA_SCANNER",
-			"printer": "BLUETOOTH",
-			"keyboard": "HIS_KEYBOARD_ONLY"
-		}
-	}
+	]
 }
