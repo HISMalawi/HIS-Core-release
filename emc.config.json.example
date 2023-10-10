@@ -1,0 +1,40 @@
+{
+	"apiURL": "127.0.0.1",
+	"apiPort": "9000",
+	"apiProtocol": "http",
+	"isPocSite": false,
+	"defaultApp": "EMC",
+	"appConf": {
+		"devMode": false,
+		"enableVersionLocking": true,
+		"promptFullScreenDialog": false,
+		"showUpdateNotifications": true
+	},
+	"apps": [
+		{ "name": "EMC", "available": true }
+	],
+	"platformProfiles":  {
+		"Desktop": {
+			"profileName": "Desktop",
+			"fileExport": "WEB",
+			"scanner": "BARCODE_SCANNER",
+			"printer": "WEB",
+			"keyboard": "NATIVE_AND_HIS_KEYBOARD"
+		},
+		"Mobile" : {
+			"profileName": "Mobile",
+			"fileExport": "FILE_SYSTEM",
+			"scanner": "CAMERA_SCANNER",
+			"printer": "BLUETOOTH",
+			"keyboard": "HIS_KEYBOARD_ONLY"
+		}
+	},
+	"thirdpartyApps": [
+		{
+			"name": "pacs",
+			"url": "",
+			"applicationDescription": "Picture archieving system",
+			"comment": "redirecting to pacs image viewer; used in OPD"
+		}
+	]
+}
