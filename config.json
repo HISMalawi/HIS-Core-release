@@ -10,6 +10,7 @@
 	"networkSites": [
 	],
 	"apps": [
+		{ "name": "SPINE", "available": true },
 		{ "name": "ITS", "available": true },
 		{ "name": "CRVS", "available": true },
 		{ "name": "EMC", "available": true },
