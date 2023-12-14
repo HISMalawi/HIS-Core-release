@@ -1,6 +1,6 @@
 # What's new in ART
 
-## Version 1.13.0-gamma
+## Version 1.13.0
 
 ### December 2023
 
