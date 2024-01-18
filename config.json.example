@@ -17,8 +17,14 @@
 		{ "name": "OPD", "available": true },
 		{ "name": "ANC", "available": true },
 		{ "name": "CxCa", "available": true },
+		{ "name": "SPINE", "available": true },
+		{ "name": "AETC", "available": true },
 		{ "name": "RADIOLOGY", "available": true },
+		{ "name": "CRVS", "available": true },
 		{ "name": "Registration", "available": true}
+	],
+	"otherApps": [
+		{ "name": "Test App", "IP": "127.0.0.1", "port": "8080", "protocol": "http"}
 	],
 	"platformProfiles":  {
 		"Desktop": {
