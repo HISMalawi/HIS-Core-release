@@ -11,6 +11,7 @@
 	"networkSites": [
 	],
 	"apps": [
+		{ "name": "TB", "available": true },
 		{ "name": "SPINE", "available": true },
 		{ "name": "ITS", "available": true },
 		{ "name": "CRVS", "available": true },
