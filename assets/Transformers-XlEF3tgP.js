@@ -1,0 +1,1 @@
+function o(e,t=2){return e.reduce((r,n,u)=>(u%t===0&&r.push(e.slice(u,u+t)),r),[])}function c(e,t){return Object.keys(e).sort((r,n)=>t(r,n)).reduce((r,n)=>(r[n]=e[n],r),{})}const s={convertArrayToTurples:o,orderObj:c};export{s as T};
