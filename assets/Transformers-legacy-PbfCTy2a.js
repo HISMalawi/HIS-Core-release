@@ -1,0 +1,1 @@
+System.register([],(function(e,r){"use strict";return{execute:function(){e("T",{convertArrayToTurples:function(e,r=2){return e.reduce(((t,u,n)=>(n%r==0&&t.push(e.slice(n,n+r)),t)),[])},orderObj:function(e,r){return Object.keys(e).sort(((e,t)=>r(e,t))).reduce(((r,t)=>(r[t]=e[t],r)),{})}})}}}));

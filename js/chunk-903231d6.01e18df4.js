@@ -1,6 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-903231d6","chunk-2d0cf9fe","chunk-2d0a3a6a"],{"02a3":function(t,n,e){"use strict";e.r(n),e.d(n,"createSwipeBackGesture",(function(){return u}));var r=e("862a"),i=e("6509"),o=e("f4ad"),u=(e("953a"),function(t,n,e,u,c){var a=t.ownerDocument.defaultView,d=Object(i["i"])(t),f=function(t){var n=50,e=t.startX;return d?e>=a.innerWidth-n:e<=n},s=function(t){return d?-t.deltaX:t.deltaX},l=function(t){return d?-t.velocityX:t.velocityX},v=function(e){return d=Object(i["i"])(t),f(e)&&n()},w=function(t){var n=s(t),e=n/a.innerWidth;u(e)},h=function(t){var n=s(t),e=a.innerWidth,i=n/e,o=l(t),u=e/2,d=o>=0&&(o>.2||n>u),f=d?1-i:i,v=f*e,w=0;if(v>5){var h=v/Math.abs(o);w=Math.min(h,540)}c(d,i<=0?.01:Object(r["l"])(0,i,.9999),w)};return Object(o["createGesture"])({el:t,gestureName:"goback-swipe",gesturePriority:40,threshold:10,canStart:v,onStart:e,onMove:w,onEnd:h})})},6509:function(t,n,e){"use strict";e.r(n),e.d(n,"i",(function(){return r}));
-/*!
- * (C) Ionic http://ionicframework.com - MIT License
- */
-var r=function(t){return t&&""!==t.dir?"rtl"===t.dir.toLowerCase():"rtl"===(null===document||void 0===document?void 0:document.dir.toLowerCase())}}}]);
-//# sourceMappingURL=chunk-903231d6.01e18df4.js.map

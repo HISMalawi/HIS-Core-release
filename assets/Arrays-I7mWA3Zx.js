@@ -1,0 +1,1 @@
+function r(u,n){return[...new Map(u.filter(Boolean).map(o=>[Array.isArray(n)?n.map(e=>o[e]).join("_"):o[n],o])).values()]}function s(u){const n=u.length;return n===0?"":n===1?u[0]:"".concat(u.slice(0,n-1).join(", ")," and ").concat(u[n-1])}export{s as j,r as u};

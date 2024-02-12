@@ -1,0 +1,1 @@
+System.register(["./index-legacy-2bdI6aeZ.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.bB}],execute:function(){e("L",class extends r{constructor(){super(),this.programID=23}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}})}}}));
