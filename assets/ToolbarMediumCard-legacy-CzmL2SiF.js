@@ -1,1 +1,0 @@
-System.register(["./index-legacy--hxN_V8z.js"],(function(e,t){"use strict";var r,n,s,i,o;return{setters:[e=>{r=e.d,n=e._,s=e.o,i=e.x,o=e.bi}],execute:function(){const t=r({name:"ToolBarMediumCard"}),u={class:"tool-bar-medium-card"};e("T",n(t,[["render",function(e,t,r,n,a,c){return s(),i("div",u,[o(e.$slots,"default")])}]]))}}}));
