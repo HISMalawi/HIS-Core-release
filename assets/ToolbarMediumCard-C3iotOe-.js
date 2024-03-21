@@ -1,1 +1,0 @@
-import{d as e,_ as a,o as r,x as s,bk as t}from"./index-BFG-WECc.js";const n=e({name:"ToolBarMediumCard"}),d={class:"tool-bar-medium-card"};function c(o,i,l,m,_,p){return r(),s("div",d,[t(o.$slots,"default")])}const u=a(n,[["render",c]]);export{u as T};

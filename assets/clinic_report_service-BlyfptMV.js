@@ -1,1 +1,0 @@
-import{bD as r}from"./index-BFG-WECc.js";class o extends r{constructor(){super()}getTtpOutcomes(){return this.getReport("programs/".concat(this.programID,"/reports/tpt_outcome"))}getHypertensionReport(){return this.getReport("programs/".concat(this.programID,"/reports/hypertension_report"))}}export{o as C};
