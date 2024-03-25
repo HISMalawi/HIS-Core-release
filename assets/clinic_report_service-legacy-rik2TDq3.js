@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Ck8hVlzC.js"],(function(t,e){"use strict";var r;return{setters:[t=>{r=t.bT}],execute:function(){t("C",class extends r{constructor(){super()}getTtpOutcomes(){return this.getReport(`programs/${this.programID}/reports/tpt_outcome`)}getHypertensionReport(){return this.getReport(`programs/${this.programID}/reports/hypertension_report`)}})}}}));

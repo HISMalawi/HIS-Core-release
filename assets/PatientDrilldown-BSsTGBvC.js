@@ -1,0 +1,1 @@
+import{O as o}from"./index-C6EjxQ0a.js";import{D as r}from"./DrillPatientIds-CU7igfuT.js";async function i(s,n){(await o.create({component:r,cssClass:"large-modal",componentProps:{title:s,patientIdentifiers:n,onFinish:()=>o.dismiss()}})).present()}export{i as D};

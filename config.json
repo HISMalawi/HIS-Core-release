@@ -11,12 +11,12 @@
 	"networkSites": [
 	],
 	"apps": [
+		{ "name": "ART", "available": true },
 		{ "name": "TB", "available": true },
 		{ "name": "SPINE", "available": true },
 		{ "name": "ITS", "available": true },
 		{ "name": "CRVS", "available": true },
 		{ "name": "EMC", "available": true },
-		{ "name": "ART", "available": true },
 		{ "name": "LOS", "available": true },
 		{ "name": "OPD", "available": true },
 		{ "name": "ANC", "available": true },
