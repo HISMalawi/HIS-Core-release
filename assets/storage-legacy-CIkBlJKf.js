@@ -1,1 +1,0 @@
-(function(){System.register(["./index-legacy-Ck8hVlzC.js"],(function(exports,module){"use strict";return{setters:[null],execute:function(){const storageFactory=exports("s",((storageName="IndexedDBStorage")=>eval(`new ${storageName}()`)))}}}))})();
