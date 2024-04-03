@@ -1,0 +1,1 @@
+System.register(["./index-legacy-JGk_dRVc.js"],(function(t,e){"use strict";var s;return{setters:[t=>{s=t.S}],execute:function(){t("D",class extends s{constructor(){super()}static getDrugs(t={}){return super.getJson("/drugs",t)}static getOPDDrugs(t={}){return super.getJson("OPD_drugslist",t)}})}}}));

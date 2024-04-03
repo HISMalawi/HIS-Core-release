@@ -1,1 +1,0 @@
-import{d as o,_ as s,o as a,x as t,bk as r,ar as n}from"./index-ChqjXh1q.js";const l=o({name:"ViewPort",props:{showFull:{type:Boolean,default:()=>!0}}});function d(e,p,c,i,f,u){return a(),t("div",{id:"view-port",class:n(e.showFull?"":"half")},[r(e.$slots,"default",{},void 0,!0)],2)}const m=s(l,[["render",d],["__scopeId","data-v-b4da23b3"]]);export{m as V};

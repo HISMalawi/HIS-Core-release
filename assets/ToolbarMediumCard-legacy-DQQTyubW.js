@@ -1,0 +1,1 @@
+System.register(["./index-legacy-JGk_dRVc.js"],(function(e,t){"use strict";var r,n,s,o,u;return{setters:[e=>{r=e.d,n=e._,s=e.o,o=e.x,u=e.bm}],execute:function(){const t=r({name:"ToolBarMediumCard"}),a={class:"tool-bar-medium-card"};e("T",n(t,[["render",function(e,t,r,n,c,d){return s(),o("div",a,[u(e.$slots,"default")])}]]))}}}));
