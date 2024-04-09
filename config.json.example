@@ -12,8 +12,9 @@
 	"apps": [
 		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
-		{ "name": "LOS", "available": true },
+		{ "name": "ITS", "available": true },
 		{ "name": "OPD", "available": true },
+		{ "name": "LOS", "available": true },
 		{ "name": "ANC", "available": true },
 		{ "name": "CxCa", "available": true },
 		{ "name": "SPINE", "available": true },
@@ -21,6 +22,9 @@
 		{ "name": "RADIOLOGY", "available": true },
 		{ "name": "CRVS", "available": true },
 		{ "name": "Registration", "available": true}
+	],
+	"networkSites": [
+		{ "site": "Local API", "protocol": "http", "ip": "0.0.0.0", "port": "3000" }
 	],
 	"otherApps": [
 		{ "name": "Test App", "IP": "127.0.0.1", "port": "8080", "protocol": "http"}
