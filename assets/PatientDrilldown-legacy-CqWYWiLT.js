@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CNrLGT3P.js","./DrillPatientIds-legacy-LZQBdlaK.js"],(function(e,t){"use strict";var s,n;return{setters:[e=>{s=e.O},e=>{n=e.D}],execute:function(){e("D",(async function(e,t){(await s.create({component:n,cssClass:"large-modal",componentProps:{title:e,patientIdentifiers:t,onFinish:()=>s.dismiss()}})).present()}))}}}));

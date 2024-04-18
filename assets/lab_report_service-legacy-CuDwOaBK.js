@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CNrLGT3P.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.bT}],execute:function(){e("L",class extends r{constructor(){super(),this.programID=23}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}})}}}));
