@@ -1,0 +1,1 @@
+import{S as e}from"./index-BCTN_bnC.js";class a extends e{static getRecentOrders(t){return e.getJson("patients/".concat(t,"/most_recent_lab_order"),{patient_id:t,program_id:e.getProgramID(),date:e.getSessionDate()})}}export{a as L};
