@@ -1,0 +1,1 @@
+System.register(["./index-legacy-C29Eb2Qm.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.bD}],execute:function(){e("A",class extends r{constructor(){super()}getWeeklyReport(){return this.getReport("")}getEnrollmentReport(){return this.getReport("")}getDisaggregatedReport(){return this.getReport("")}getAdvanceDiseaseRegister(){return this.getReport("")}})}}}));

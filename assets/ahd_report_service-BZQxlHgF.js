@@ -1,0 +1,1 @@
+import{bD as e}from"./index-DTBWhHAq.js";class o extends e{constructor(){super()}getWeeklyReport(){return this.getReport("")}getEnrollmentReport(){return this.getReport("")}getDisaggregatedReport(){return this.getReport("")}getAdvanceDiseaseRegister(){return this.getReport("")}}export{o as A};
