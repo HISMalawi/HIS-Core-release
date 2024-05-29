@@ -1,1 +1,0 @@
-import{bd as o}from"./index-BBbw6-oc.js";class t extends o{constructor(r,e){super(r,84,e)}}export{t as S};
