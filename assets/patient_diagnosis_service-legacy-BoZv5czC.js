@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CFSeLXed.js"],(function(e,t){"use strict";var s,n;return{setters:[e=>{s=e.bd,n=e.aY}],execute:function(){e("P",class extends s{constructor(e,t){super(e,8,t)}static async getDiagnosis(e="",t=1,i=10){const a=n.getConceptID("Qech outpatient diagnosis list");return s.getJson("diagnosis",{id:a,name:e,page:t,page_size:i})}})}}}));
