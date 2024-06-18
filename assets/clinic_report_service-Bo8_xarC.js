@@ -1,1 +1,0 @@
-import{bD as e}from"./index-DTBWhHAq.js";class s extends e{constructor(){super()}getTtpOutcomes(){return this.getReport("programs/".concat(this.programID,"/reports/tpt_outcome"))}getHypertensionReport(r=!1){return this.getReport("programs/".concat(this.programID,"/reports/hypertension_report"),{process_due:r})}}export{s as C};
