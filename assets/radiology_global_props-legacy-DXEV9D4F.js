@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CDoD6Xcl.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.G}],execute:function(){var t=e("R",(e=>(e.DEFAULT_REFERRAL_LOCATION="default.referral.location",e))(t||{}));e("a",{defaultReferralLocation:()=>r.get("default.referral.location")})}}}));

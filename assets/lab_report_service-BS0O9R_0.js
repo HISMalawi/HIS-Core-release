@@ -1,0 +1,1 @@
+import{bM as e}from"./index-CZ5Jg0n0.js";class s extends e{constructor(){super(),this.programID=23}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}}export{s as L};
