@@ -1,6 +1,6 @@
 # What's new in LOS
 
-## Version 2024.Q2.R2
+## Version 2024.Q2.R4
 
 ### June 2024
 

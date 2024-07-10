@@ -1,6 +1,6 @@
 # What's new in OPD
 
-## Version 2024.Q2.R2
+## Version 2024.Q2.R4
 
 ### June 2024
 
@@ -12,3 +12,4 @@
 - Fix the Cases Seen report in OPD which was not pulling data 
 - Supporting physical keyboard input for clinical notes
 - Fixed OPD NID report to show records only for the selected period
+- Added a free text input on presenting complaints when other is selected

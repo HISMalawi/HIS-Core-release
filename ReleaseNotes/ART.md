@@ -1,6 +1,6 @@
 # What's new in ART
 
-## Version 2024.Q2.R2
+## Version 2024.Q2.R4
 
 ### June 2024
 
@@ -31,3 +31,4 @@
 - Fixed VL Register to now show results entered manually 
 - Fixed the LOS failing to order viral load sample; Resolved different concept names 
 - Fixed FBS Test Result Indicator as users were unable to enter FBS test results
+- Changed “Enter period (In months)” to “Enter Full TB Treatment Period (In Months)” consultation question to ask user what TB treatment length a client will be on.
