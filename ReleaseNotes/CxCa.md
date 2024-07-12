@@ -1,12 +1,15 @@
 # What's new in CxCa
 
-## Version 2024.Q2.R2
+## Version 1.13.0-gamma
 
-### June 2024
+### December 2023
 
-- Clinic denial report now pulls clients from ART 
-- Clients that have undergone Hysterectomy, Chemotherapy and Palliative treatments and are no longer eligible for screening will be flagged in the ART module on the offer CxCa screening section. 
-- Added disaggregated option by screening method when generating Clinic CxCa report as follows: All, VIA, PAP Smear, Speculum Exam & HPV DNA 
-- Fixed reports that were not pulling data: CECAP TX report and monthly clinic report. 
-- The outcome referral workflow leg used to repeat even after referral details have been captured. The system now allows clients eligible for screening to be screened after a referral outcome.  
-- Subsequent screening workflow engine has been fixed to enable smooth service delivery without manual selection of tasks. 
+- Introduced new treatment options.
+- Included 'benign warts' in the "Histology Results After" field.
+- Implemented a new clinic screen report.
+- Deactivated initial questions for revisiting clients.
+- Added Pregnancy as a reason for denial for CxCa Screening.
+- Excluded menopause clients from family planning services.
+- Continued screening for all except those on palliative care, chemotherapy, or who have undergone hysterectomy.
+- Added 'Reason for denying screening' report.
+- Improved MOH reports for enhanced functionality.

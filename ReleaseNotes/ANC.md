@@ -1,9 +1,16 @@
 # What's new in ANC
 
-## Version 2024.Q2.R4
+## Version 1.13.0-gamma
 
-### June 2024
+### December 2023
 
-- Fixed the amount dispensed calculation on as some drugs were showing 0 as amount dispensed and SP was missing on the printout.
-- Resolved issue of cohort report mixing existing and new clients 
-- Fixed the calculation of LNMP for patients when the fundal height changes 
+- 'Laparotomy due to ectopic pregnancy' now included in surgical history.
+- Enhanced prenatal care: increased visits to 15 with added visit number validations and notes.
+- Resolved issue preventing SP dose dispensation.
+- New alert for a 30% increase/decrease in weight from the previous reading
+- Added an alert when the height was not entered during the previous visit
+- Corrected calculation for expected delivery date
+- Addressed issue allowing input of negative figures for the number of weeks.
+- Admins empowered to set password change intervals via the password policy manager.
+- Implemented user inactivity tracking to auto-logout users after extended periods.
+- Users can now access and view EMR changes via built-in release notes.
