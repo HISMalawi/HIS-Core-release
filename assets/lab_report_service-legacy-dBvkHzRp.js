@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CHWOUhn2.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.bM}],execute:function(){e("L",class extends r{constructor(){super(),this.programID=23}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}})}}}));
