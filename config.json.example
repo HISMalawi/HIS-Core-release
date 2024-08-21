@@ -10,6 +10,7 @@
 		"dataCaching": true
 	},
 	"apps": [
+		{ "name": "TB", "available": true },
 		{ "name": "EMC", "available": true },
 		{ "name": "ART", "available": true },
 		{ "name": "LOS", "available": true },
