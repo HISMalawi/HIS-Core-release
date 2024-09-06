@@ -1,0 +1,1 @@
+import{al as e}from"./index-LyP1z09P.js";class s extends e{static getRecentOrders(t){return e.getJson("patients/".concat(t,"/most_recent_lab_order"),{patient_id:t,program_id:e.getProgramID(),date:e.getSessionDate()})}}export{s as L};
