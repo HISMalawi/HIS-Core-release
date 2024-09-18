@@ -1,1 +1,0 @@
-System.register(["./index-legacy-iEOS67hm.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.al}],execute:function(){e("L",class extends r{static getRecentOrders(e){return r.getJson(`patients/${e}/most_recent_lab_order`,{patient_id:e,program_id:r.getProgramID(),date:r.getSessionDate()})}})}}}));

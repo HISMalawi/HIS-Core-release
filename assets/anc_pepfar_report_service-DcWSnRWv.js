@@ -1,0 +1,1 @@
+import{dy as t}from"./index-DrPQ21-i.js";class s extends t{generateDisaggregated(e){return t.getJson("anc_cohort_disaggregated",{date:this.date,start_date:e,rebuild_outcome:!1,program_id:t.getProgramID()})}generatePmtctStatArt(){return t.getJson("programs/".concat(this.programID,"/reports/pmtct_stat_art"),{start_date:this.startDate,end_date:this.endDate})}}export{s as A};
