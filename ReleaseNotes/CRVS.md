@@ -1,1 +1,0 @@
-# CRVS Release notes example

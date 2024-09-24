@@ -1,1 +1,0 @@
-# Registration Release notes example
