@@ -1,0 +1,73 @@
+@page {
+    size: auto;   /* auto is the current printer page size */
+    margin: 0mm;  /* this affects the margin in the printer settings */
+    font-size: 10px;
+    height: 100%;
+}
+
+.footer {
+    display: none;
+}
+
+#main {
+    height: 100% !important;
+    overflow: hidden !important;
+}
+
+a[href]:after {
+    content: none !important;
+}
+
+table#table-header td{
+    padding: 10px;
+}
+
+table td {
+    padding: 5px;
+}
+
+.err-rows {
+    background-color: red;
+    color: white;
+}
+
+.pass-rows {
+    background-color: green;
+    color: black;
+    border: 1px solid #000000;
+}
+
+.err-num {
+    width: 3%;
+}
+
+#Unknown {
+    display: none;
+}
+
+#num {
+    display: none;
+}
+
+#main {
+    height: 600px;
+}
+
+a:link {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange !important;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.valueCell {
+    border: 3px solid #000;
+}

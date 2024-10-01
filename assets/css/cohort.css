@@ -1,0 +1,119 @@
+.numbers {
+  width: 2.5%;
+  text-align: center;
+  border-width: 0px 1px 0px 0px;
+  border-style: dotted;
+}
+.row-title {
+  width: 17.75%;
+  text-align: left;
+  padding-left: 5px;
+  border-style: dotted;
+}
+.signatures {
+  width: 39.875%;
+  text-align: left;
+  padding-left: 5px;
+  border-style: dotted;
+}
+.row-name {
+  width: 39.875%;
+  text-align: left;
+  padding-left: 5px;
+  border-style: dotted;
+  border-left-style: solid;
+}
+.no-borders {
+  border-width: 0px;
+}
+#version-row td {
+  height: 30px;
+}
+#version {
+  text-align: right;
+  padding-right: 5px;
+  font-size: 10px;
+}
+#consistency_check div {
+  color: red;
+  padding-bottom: 10px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+tr {
+  height: 45px;
+}
+
+.vertical-separator {
+  border-width: 0px;
+}
+
+td {
+  border-style: solid;
+  border-width: 1px;
+  padding: 1em;
+  text-align: center;
+}
+
+.section-description td {
+  border-width: 0px;
+}
+
+.horisonatl-separator td {
+  border-width: 0px;
+}
+
+.numbers {
+  width: 2.5%;
+  text-align: center;
+  border-width: 0px 1px 0px 0px;
+  border-style: dotted;
+}
+.sum-arrows {
+  width: 75px;
+  height: 55px;
+}
+.postfixes {
+  font-size: x-small;
+  font-weight: bold;
+  position: relative;
+  top: -15px;
+  left: -40px;
+}
+.granules {
+  width: 100%;
+  height: 32px;
+  margin: 10px;
+  display: table;
+}
+.granules-row {
+  display: table-row;
+}
+.granules-cell {
+  display: table-cell;
+  text-align: center;
+}
+.granules span{
+  font-size: 10px;
+}
+.granules-right-td {
+  border-right-style: dotted !important;
+  border-right-width: 1px;
+}
+
+@media print
+{
+  table { page-break-after:auto }
+  tr    { page-break-inside:avoid; page-break-after:auto }
+  td    { page-break-inside:avoid; page-break-after:auto }
+  thead { display:table-header-group }
+  tfoot { display:table-footer-group }
+}

@@ -1,0 +1,20 @@
+# What's new in TB
+
+## Version 2024.Q3.R3
+
+### September 2024
+
+- Added a flag to distinguish encounters created on BDE mode on the patient dashboard 
+- Upgraded label printing implementation with Capacitor Label Printer Plugin which has the capability to support multiple printer setting: 
+    - Web printing setting
+    - Ocom devices with built-in printer setting 
+    - Ocom devices using external printer (Zebra) setting
+- Removed Examination option for Xpert MTB/RIF Ultra 
+- Renaming Screen criteria to High Risk Group
+- Added “None” button option to High Risk Group
+- TB module now proceeds to appointment after dispensation 
+- Remove ART references in Adherence Encounter 
+- Filter only TB orders on the Patient dashboard 
+- Fixed crushing TB visit summary when printing
+- Fixed the crushing tb test types issue
+- Corrected the tb drug adherence calculation
