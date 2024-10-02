@@ -1,1 +1,0 @@
-import{cd as e}from"./index-C_BWP2R5.js";class s extends e{constructor(){super(),this.programID=23}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}}export{s as L};
