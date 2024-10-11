@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DDADMnop.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.en}],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));
