@@ -1,6 +1,6 @@
 # What's new in AETC
 
-## Version v2024.Q3.R3
+## Version v2024.Q3.R5
 
 ### September 2024
 
