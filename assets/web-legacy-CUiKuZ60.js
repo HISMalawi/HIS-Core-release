@@ -1,1 +1,0 @@
-System.register(["./index-legacy-rS9CNTaA.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.en}],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));
