@@ -1,1 +1,0 @@
-System.register(["./index-legacy-B-IGLekl.js"],(function(t,e){"use strict";var s;return{setters:[t=>{s=t.bQ}],execute:function(){t("H",class extends s{constructor(t,e=-1){super(t,158,e)}getRecentCircumcisionStatus(){return this.getFirstValueCoded("Circumcision status")}})}}}));

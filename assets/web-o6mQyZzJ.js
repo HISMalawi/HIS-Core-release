@@ -1,1 +1,0 @@
-import{fd as e}from"./index-CyYd6aWW.js";class o extends e{async printLabel(r){if(!r.url)throw new TypeError("Unable to Print Label: URL is required");document.location=r.url}async discover(){return{devices:[{name:"webPrinter",address:"Browser",port:"Browser"}]}}}export{o as LabelPrinterWeb};

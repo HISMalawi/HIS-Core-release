@@ -1,1 +1,0 @@
-import{cq as e}from"./index-CyYd6aWW.js";class s extends e{constructor(){super(),this.programID=23}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}}export{s as L};
