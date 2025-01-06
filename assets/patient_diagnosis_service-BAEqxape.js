@@ -1,0 +1,1 @@
+import{bI as s,bp as o}from"./index-V3uTS3yc.js";class r extends s{constructor(e,t){super(e,8,t)}static async getDiagnosis(e="",t=1,i=10){const n=o.getConceptID("Qech outpatient diagnosis list");return s.getJson("diagnosis",{id:n,name:e,page:t,page_size:i})}}export{r as P};
