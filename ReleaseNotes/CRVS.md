@@ -1,7 +1,7 @@
 # What's new in CRVS
 
-## Version 2024.Q3.R3
+## Version 2024.Q4.R3
 
-### September 2024
+### January 2024
 
 - 
