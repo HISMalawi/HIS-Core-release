@@ -1,0 +1,1 @@
+import{db as r}from"./index-BMVUUxuO.js";class s extends r{constructor(){super(),this.programID=23}getLabTrail(){return this.programID=1,this.getReport("programs/1/reports/LAB_AUDIT_TRAIL")}getSamplesDrawnReport(){return this.getReport("samples_drawn")}getLabResultsReport(){return this.getReport("lab_test_results")}}export{s as L};
