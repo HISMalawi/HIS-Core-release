@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CBR8jcof.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.ed}],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));

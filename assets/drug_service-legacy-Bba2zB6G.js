@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Lddj3iK3.js"],(function(t,e){"use strict";var s;return{setters:[t=>{s=t.aj}],execute:function(){t("D",class extends s{constructor(){super()}static getDrugs(t={}){return super.getJson("/drugs",t)}static getOPDDrugs(t={}){return super.getJson("OPD_drugslist",t)}})}}}));
