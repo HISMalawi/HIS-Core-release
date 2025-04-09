@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DR3-kJVE.js"],(function(e,s){"use strict";var t,n;return{setters:[e=>{t=e.bL,n=e.bs}],execute:function(){e("P",class extends t{constructor(e,s){super(e,8,s)}static async getDiagnosis(e="",s=1,i=10){const c=n.getConceptID("Qech outpatient diagnosis list");return t.getJson("diagnosis",{id:c,name:e,page:s,page_size:i})}})}}}));

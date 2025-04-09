@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DR3-kJVE.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.ex}],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));
