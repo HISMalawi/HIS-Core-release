@@ -1,6 +1,15 @@
 # What's new in ART
 
-## Version v2025.Q1.R1
+## Version v2025.Q1.R2
+
+### April 22nd 2025
+* Updgraded Cohort report drilldown
+* Tx HTN Report Drilldown fix
+* Fix HIV DNA ploymerase chain reaction start reason
+* Fix TX HTN Report prefix 
+* Feat: Reset password functionality 
+* Entering reason for backdata entry on Change Session Date page
+
 ### April 2025
 
 

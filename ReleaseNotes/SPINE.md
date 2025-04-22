@@ -1,6 +1,11 @@
 # What's new in Spine
 
-## Version v2025.Q1.R1
+## Version v2025.Q1.R2
+
+### April 22nd 2025
+* Feat: Reset password functionality 
+* Entering reason for backdata entry on Change Session Date page
+
 ### April 2025
 
 - Added support for USB printing for Zebra Printers on Zebra tablets

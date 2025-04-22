@@ -1,1 +1,0 @@
-import{bL as t,bs as o}from"./index-DOO_dFo7.js";class r extends t{constructor(e,s){super(e,8,s)}static async getDiagnosis(e="",s=1,i=10){const n=o.getConceptID("Qech outpatient diagnosis list");return t.getJson("diagnosis",{id:n,name:e,page:s,page_size:i})}}export{r as P};
