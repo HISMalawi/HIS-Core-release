@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DoBnfiD9.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.eC}],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));
