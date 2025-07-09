@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DJWxguzi.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.eD}],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));
