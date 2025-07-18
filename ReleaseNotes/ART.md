@@ -13,4 +13,5 @@
 - Removed "Pre-ART" from ART program state selection
 - Added a search no the HTN More drugs page
 - Added mandatory bp screening for known hypertensive clients
-- Now checking and adopting TB current status and treatment details from the TB module is a client is being managed in the TB Module for TB
+- Now checking and adopting TB current status and treatment details from the TB module is a client is being managed in the TB Module for TB.
+- Added helptext feature to provide user with some helpful tips on targeted pages.
