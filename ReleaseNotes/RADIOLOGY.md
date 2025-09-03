@@ -1,6 +1,6 @@
 # What's new in Radiology
 
-## Version v2025.Q2.R0
+## Version v2025.Q3.R0
 
 >
-- Adjusted password expiry period from 30 days to 90 days
+- Added a helpdesk flyer on the login page and on the network configuration alert
