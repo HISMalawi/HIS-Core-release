@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CG62t_LC.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.ag}],execute:function(){var t=e("R",(e=>(e.DEFAULT_REFERRAL_LOCATION="default.referral.location",e))(t||{}));e("a",{defaultReferralLocation:()=>r.get("default.referral.location")})}}}));

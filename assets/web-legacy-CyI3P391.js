@@ -1,1 +1,0 @@
-System.register(["./index-legacy-Dh4DTBjm.js","./index-legacy-CG62t_LC.js"],(function(e,s){"use strict";var t;return{setters:[e=>{t=e.W},null],execute:function(){e("CapacitorAppInstallerWeb",class extends t{async install(e){console.log("INSTALLING",e)}})}}}));
