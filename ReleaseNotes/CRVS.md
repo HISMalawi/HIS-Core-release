@@ -1,6 +1,6 @@
 # What's new in CRVS
 
-## Version v2025.Q2.R2
+## Version v2025.Q3.R3
 
 >
 - N/A

@@ -1,7 +1,8 @@
 # What's new in ANC
 
-## Version v2025.Q3.R0
+## Version v2025.Q3.R3
 
 >
 - Added a helpdesk flyer on the login page and on the network configuration alert
+- Enhanced system version locking to ensure the EMR always runs on the latest version.
 - Fixed the Lab orders summary printout to only show the lab orders done
