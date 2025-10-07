@@ -1,1 +1,0 @@
-import{aq as a}from"./index-qFt4YszW.js";var e=(r=>(r.DEFAULT_REFERRAL_LOCATION="default.referral.location",r))(e||{});const t={defaultReferralLocation:()=>a.get("default.referral.location")};export{t as R,e as a};
