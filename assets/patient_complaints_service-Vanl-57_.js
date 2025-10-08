@@ -1,1 +1,0 @@
-import{bW as a,bn as s}from"./index-DrAzzURJ.js";class n extends a{constructor(t,e){super(t,122,e)}static async getComplaintsList(t,e=""){return s.getConceptSet(t,e)}async fetchLatestTriageEncounter(){return await n.getObs({concept_id:s.getConceptID("History of COVID-19 contact"),start_date:this.date,end_date:this.date,person_id:this.patientID})}}export{n as P};
