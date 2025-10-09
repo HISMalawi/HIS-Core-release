@@ -1,1 +1,0 @@
-System.register(["./index-legacy-pSEoxn3J.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.aq}],execute:function(){var t=e("a",(e=>(e.DEFAULT_REFERRAL_LOCATION="default.referral.location",e))(t||{}));e("R",{defaultReferralLocation:()=>r.get("default.referral.location")})}}}));
