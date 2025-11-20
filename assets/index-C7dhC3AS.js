@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-CW6JYPaV.js","assets/index-DC9jnrfb.js","assets/index-CJleCCtM.js","assets/index-BzpIK3mx.css"])))=>i.map(i=>d[i]);
-import{bE as t}from"./index-CJleCCtM.js";import{r as a}from"./index-DC9jnrfb.js";const o=a("CapacitorAppInstaller",{web:()=>t(()=>import("./web-CW6JYPaV.js"),__vite__mapDeps([0,1,2,3])).then(r=>new r.CapacitorAppInstallerWeb)});export{o as C};
