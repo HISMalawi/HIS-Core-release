@@ -1,1 +1,0 @@
-import{S as s}from"./index-y6JY22M4.js";class u extends s{constructor(){super()}static getDrugs(r={}){return super.getJson("/drugs",r)}static getOPDDrugs(r={}){return super.getJson("OPD_drugslist",r)}}export{u as D};

@@ -1,0 +1,1 @@
+import{ao as a}from"./index-DWvBcSFv.js";var e=(r=>(r.DEFAULT_REFERRAL_LOCATION="default.referral.location",r))(e||{});const t={defaultReferralLocation:()=>a.get("default.referral.location")};export{t as R,e as a};
