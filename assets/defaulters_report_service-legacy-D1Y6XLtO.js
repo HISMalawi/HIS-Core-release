@@ -1,1 +1,0 @@
-System.register(["./index-legacy-DhfIpXPN.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.cB}],execute:function(){e("D",class extends r{pepfar;constructor(){super(),this.pepfar=!0}setIsPepfar(e){this.pepfar=e}getDefaulters(){return this.getReport("defaulter_list",{pepfar:this.pepfar})}})}}}));
