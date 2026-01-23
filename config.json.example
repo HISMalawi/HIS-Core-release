@@ -3,7 +3,7 @@
 	"apiPort": "3000",
 	"apiProtocol": "http",
 	"appConf": {
-		"devMode": true,
+		"devMode": false,
 		"enableVersionLocking": true,
 		"promptFullScreenDialog": false,
 		"showUpdateNotifications": true,
