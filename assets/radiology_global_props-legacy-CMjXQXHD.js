@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B837ziyX.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.ao}],execute:function(){var t=e("a",(e=>(e.DEFAULT_REFERRAL_LOCATION="default.referral.location",e))(t||{}));e("R",{defaultReferralLocation:()=>r.get("default.referral.location")})}}}));

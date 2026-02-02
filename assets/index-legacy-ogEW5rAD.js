@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B837ziyX.js"],(function(e,t){"use strict";var r,n;return{setters:[e=>{r=e.c8,n=e.bF}],execute:function(){e("C",r("CapacitorAppInstaller",{web:()=>n((()=>t.import("./web-legacy-Dl45LVxC.js")),void 0).then((e=>new e.CapacitorAppInstallerWeb))}))}}}));
