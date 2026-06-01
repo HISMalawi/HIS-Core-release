@@ -2,44 +2,27 @@
 	"apiURL": "localhost",
 	"apiPort": "3000",
 	"apiProtocol": "http",
+	"isPocSite": false,
 	"appConf": {
-		"devMode": true,
-		"enableVersionLocking": true,
+		"enableVersionLocking": false,
 		"promptFullScreenDialog": false,
-		"showUpdateNotifications": true,
-		"dataCaching": true
+		"showUpdateNotifications": true
 	},
+	"networkSites": [
+	],
 	"apps": [
-		{ "name": "TB", "available": true },
-		{ "name": "EMC", "available": true },
+		{ "name": "CxCa", "available": true },
+		{ "name": "AETC", "available": true },
 		{ "name": "ART", "available": true },
+		{ "name": "TB", "available": true },
+		{ "name": "SPINE", "available": true },
+		{ "name": "ITS", "available": true },
+		{ "name": "CRVS", "available": true },
+		{ "name": "EMC", "available": true },
 		{ "name": "LOS", "available": true },
 		{ "name": "OPD", "available": true },
 		{ "name": "ANC", "available": true },
-		{ "name": "CxCa", "available": true },
-		{ "name": "SPINE", "available": true },
-		{ "name": "AETC", "available": true },
 		{ "name": "RADIOLOGY", "available": true },
-		{ "name": "CRVS", "available": true },
 		{ "name": "Registration", "available": true}
-	],
-	"otherApps": [
-		{ "name": "Test App", "IP": "127.0.0.1", "port": "8080", "protocol": "http"}
-	],
-	"platformProfiles":  {
-		"Desktop": {
-			"profileName": "Desktop",
-			"fileExport": "WEB",
-			"scanner": "BARCODE_SCANNER",
-			"printer": "WEB",
-			"keyboard": "NATIVE_AND_HIS_KEYBOARD"
-		},
-		"Mobile" : {
-			"profileName": "Mobile",
-			"fileExport": "FILE_SYSTEM",
-			"scanner": "CAMERA_SCANNER",
-			"printer": "BLUETOOTH",
-			"keyboard": "HIS_KEYBOARD_ONLY"
-		}
-	}
+	]
 }
